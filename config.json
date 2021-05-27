@@ -1,0 +1,11 @@
+{
+    "canvas": {
+        "url":"https://canvas.uw.edu/feeds/calendars/user_specific_calendar_feed.ics"
+    },
+    "asana": {
+        "token":"Paste Asana Token here",
+        "workspace": "Paste Asana Workspace Token Here",
+        "project_gid":"Paste Project ID Here",
+        "assignee":"Paste User ID Here"
+    }
+}
